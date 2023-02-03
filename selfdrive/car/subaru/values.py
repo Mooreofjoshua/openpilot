@@ -398,8 +398,6 @@ FW_VERSIONS = {
       b'\xdc\xfd\xe0`\x00',
     ],
   },
-      
-      
   CAR.LEGACY_PREGLOBAL: {
     (Ecu.abs, 0x7b0, None): [
       b'k\x97D\x00',
